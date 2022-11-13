@@ -13,11 +13,11 @@
 Html
 ![html screenshot](./screenshothtml.png)
 CSS
-![css](./screenshotcss.png)
+![html screenshot](./screenshotcss.png)
 Javascript
-![js](./screenshotjs.png)
-JSON
-![json](./screenshotjson.png)
+![html screenshot](./screenshotjs.png)
+Json
+![html screenshot](./screenshotjson.png)
 
 ##
 
