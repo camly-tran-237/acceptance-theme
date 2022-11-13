@@ -3,7 +3,7 @@
 	"displayName": "acceptance",
 	"publisher": "phongtranhai",
 	"description": "\"You only live once, but if you do it right, once is enough. ― Mae West\"",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/nghithuong/acceptance-theme.git"
