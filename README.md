@@ -11,13 +11,13 @@
 ## Screenshot
 
 Html
-![html screenshot](./screenshothtml.png)
+![html screenshot](https://github.com/nghithuong/acceptance-theme/raw/HEAD/screenshothtml.png)
 CSS
-![html screenshot](./screenshotcss.png)
+![html screenshot](https://github.com/nghithuong/acceptance-theme/raw/HEAD/screenshotcss.png)
 Javascript
-![html screenshot](./screenshotjs.png)
+![html screenshot](https://github.com/nghithuong/acceptance-theme/raw/HEAD/screenshotjs.png)
 Json
-![html screenshot](./screenshotjson.png)
+![html screenshot](https://github.com/nghithuong/acceptance-theme/raw/HEAD/screenshotjson.png)
 
 ##
 

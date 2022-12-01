@@ -1,38 +1,43 @@
 {
-	"name": "acceptance",
-	"displayName": "acceptance",
-	"publisher": "phongtranhai",
-	"description": "\"You only live once, but if you do it right, once is enough. ― Mae West\"",
-	"version": "0.0.4",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/nghithuong/acceptance-theme.git"
-	},
-	"icon": "icon.jfif",
-	"engines": {
-		"vscode": "^1.73.0"
-	},
-	"categories": [
-		"Themes"
-	],
-	"contributes": {
-		"themes": [
-			{
-				"label": "AcceptanceTheme",
-				"uiTheme": "vs-dark",
-				"path": "./themes/AcceptanceTheme-color-theme.json"
-			}
-		]
-	},
-	"__metadata": {
-		"id": "bdf4a94b-8a5e-4b24-b3e5-6c6302007e3e",
-		"publisherDisplayName": "Huu Nhan Tran",
-		"publisherId": "6dc93153-95b9-4e2a-a9a2-a5b46c721b57",
-		"isPreReleaseVersion": false,
-		"installedTimestamp": 1668306406763,
-		"targetPlatform": "vscode",
-		"isApplicationScoped": false,
-		"updated": true,
-		"preRelease": false
-	}
+  "name": "acceptance",
+  "displayName": "acceptance",
+  "publisher": "phongtranhai",
+  "description": "Theme colors make coding more fun",
+  "version": "0.0.6",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nghithuong/acceptance-theme.git"
+  },
+  "engines": {
+    "vscode": "^1.40.0"
+  },
+  "icon": "pepe-dev.jfif",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Green and Orange🌿",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Accept-greenNorange.json"
+      },
+      {
+        "label": "Green and Red 🍓",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Accept-redNgreen.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "id": "bdf4a94b-8a5e-4b24-b3e5-6c6302007e3e",
+    "publisherDisplayName": "Huu Nhan",
+    "publisherId": "6dc93153-95b9-4e2a-a9a2-a5b46c721b57",
+    "isPreReleaseVersion": false,
+    "installedTimestamp": 1669821254922,
+    "targetPlatform": "Vscode",
+    "isApplicationScoped": false,
+    "updated": false,
+    "preRelease": false
+  }
 }
