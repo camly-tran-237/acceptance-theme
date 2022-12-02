@@ -4,6 +4,7 @@ Friendly theme for my friend, thank for download. 😎
 
 ## [Released]
 
+- upload fix color for entity.function.js 0.0.7
 - 2 color schemes available 🙆‍♂️✍️(update color for theme, add theme base on monokai and onedark) v0.0.6
 - change color v0.0.5
 - fix v0.0.4
