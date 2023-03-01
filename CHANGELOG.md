@@ -1,11 +1,12 @@
 # Change Log
 
-Friendly theme for my friend, thank for download. 😎
+thank for download. 😎🌹
 
 ## [Released]
 
+- v0.0.8(latest) remove old theme, add "Rose" theme.
 - upload fix color for entity.function.js 0.0.7
-- 2 color schemes available 🙆‍♂️✍️(update color for theme, add theme base on monokai and onedark) v0.0.6
+- 2 color schemes available (update color for theme, add theme base on monokai and onedark) v0.0.6
 - change color v0.0.5
 - fix v0.0.4
 - Update images v0.0.3

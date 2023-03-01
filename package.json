@@ -3,7 +3,7 @@
   "displayName": "acceptance",
   "publisher": "phongtranhai",
   "description": "Theme colors make coding more fun",
-  "version": "0.0.7",
+  "version": "v0.0.8",
   "repository": {
     "type": "git",
     "url": "https://github.com/nghithuong/acceptance-theme.git"
@@ -11,31 +11,26 @@
   "engines": {
     "vscode": "^1.40.0"
   },
-  "icon": "avatar.jfif",
+  "icon": "rose.jpg",
   "categories": [
     "Themes"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "Green and Orange🌿",
+        "label": "Rose",
         "uiTheme": "vs-dark",
-        "path": "./themes/Accept-greenNorange.json"
-      },
-      {
-        "label": "Green and Red 🍓",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Accept-redNgreen.json"
+        "path": "./themes/phuc0510.json"
       }
     ]
   },
   "__metadata": {
     "id": "bdf4a94b-8a5e-4b24-b3e5-6c6302007e3e",
-    "publisherDisplayName": "Huu Nhan",
+    "publisherDisplayName": "Huu Nhan Tran",
     "publisherId": "6dc93153-95b9-4e2a-a9a2-a5b46c721b57",
     "isPreReleaseVersion": false,
-    "installedTimestamp": 1669821254922,
-    "targetPlatform": "Vscode",
+    "installedTimestamp": 1674113174011,
+    "targetPlatform": "vscode",
     "isApplicationScoped": false,
     "updated": false,
     "preRelease": false
